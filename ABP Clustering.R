@@ -1,4 +1,4 @@
-setwd("Users/mojave/Desktop/Projects/Segmentation Analysis for Home Device")
+
 DT = read.csv("./Survey Data.csv")
 DT = DT[1:250,]
 View(DT)
